@@ -1,0 +1,25 @@
+.button {
+    cursor: pointer;
+    min-height: 32px;
+    border-radius: 100%;
+    width: auto;
+}
+
+.button--primary {
+    background-color: crimson;
+    color: white;
+}
+
+.button--secondary {
+    background-color: cornsilk;
+    color: black;
+}
+
+.button--secondary {
+    background-color: papayawhip;
+    color: firebrick;
+}
+
+.button--fullWidth {
+    width: 100%;
+}
